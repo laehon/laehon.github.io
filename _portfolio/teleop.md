@@ -1,14 +1,14 @@
 ---
 title: "Teleoperated Robot using Jetson Nano"
 author_profile: true
-key: 6
+key: 2
 excerpt: "Python, I2C, PWM, Circuit Design"
 classes: wide
 header:
   teaser: /assets/gifs/Teleop_Robot.gif
 ---
 
-This project focused on building a teleoperated robot from scratch, including the design of all circuitry for power distribution and control. A Jetson Nano is used to process all controller movements and control the robot wheels and arm through motor drivers and servo controllers
+This project focused on building a teleoperated robot from scratch, including the design of all circuitry for power distribution and control. A Jetson Nano is used to process all controller movements and control the robot wheels and arm through motor drivers and servo controllers.
 
 Source code: [GitHub](https://github.com/laehon/Teleop-Robot)
 
